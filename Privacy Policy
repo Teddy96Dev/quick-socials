@@ -1,0 +1,16 @@
+Privacy Policy - Quick Socials
+Last Updated: April 11, 2026
+
+The Quick Socials extension is designed with a strict focus on user privacy. All operations are performed locally on your machine.
+
+DATA COLLECTION The Quick Socials does not collect, store, or transmit any personal data, browsing history, or identifying information to any external servers.
+
+USE OF PERMISSIONS The extension requests the "tabs" permission for the sole purpose of identifying if a tab you are trying to open is already active. This information is processed entirely in memory and is never recorded or shared.
+
+THIRD-PARTY SHARING We do not collect any data, and therefore have no data to share with third parties. We do not use any analytics or tracking scripts.
+
+LOCAL COMMUNICATION The extension communicates exclusively with the locally running Quick Actions Stream Deck application via a WebSocket bridge (localhost). No data ever leaves your local network.
+
+CONTACT & UPDATES We may update this policy occasionally. Any changes will be reflected by the "Last Updated" date at the top of this page.
+
+© 2026 Quick Socials Plugin Support
